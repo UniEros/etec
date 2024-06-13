@@ -101,6 +101,8 @@ h1{
 
 #rh{
   padding-top: 4%;
+}
+.aulasrh{
   padding-bottom: 10%;
 }
 
@@ -315,6 +317,16 @@ max-width: 80%;
   height: 200px;
 
 }
+/*botão*/
+.botao{
+  float: left;
+  margin-left: 5%
+}
+.botao button{
+  background-color: rgb(232, 35, 35);
+  color:rgb(255, 255, 255)
+}
+
 @media (min-width:700px) and (max-width:800px)/*ipad mini*/{
   .about_img {
     position: relative;
